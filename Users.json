@@ -1,0 +1,67 @@
+[
+    {
+        "Student":[
+    {
+        "id": "1",
+        "name": "Arun",
+        "email": "arun@gmail.com",
+        "book":"History Of India",
+        "isbn":1110,
+        "borrowed_date":"05-02-2022",
+        "returned_date":"25-02-2022"
+    },
+    {
+        "id": "2",
+        "name": "Arjun",
+        "email": "arjun@gmail.com",
+        "book":"Ancient Drama",
+        "isbn":20389,
+        "borrowed_date":"15-02-2022",
+        "returned_date":"02-03-2022"
+    },
+    {
+        "id": "3",
+        "name": "Bala",
+        "email": "bala@gmail.com",
+        "book":"History Of TamilNadu",
+        "isbn":3382,
+        "borrowed_date":"10-03-2022",
+        "returned_date":"22-03-2022"
+    }
+        ]
+    },
+    
+    {
+        "Staffs":[
+            {
+                "id": "5005",
+                "name": "Mahesh",
+                "email": "mahesh@gmail.com",
+                "book":"English Vol-1",
+                "isbn":12100,
+                "borrowed_date":"01-02-2022",
+                "returned_date":"12-02-2022"
+            }, 
+            {
+                "id": "5012",
+                "name": "Sankar",
+                "email": "sankar@gmail.com",
+                "book":"Computer Science",
+                "isbn":2930,
+                "borrowed_date":"17-02-2022",
+                "returned_date":"01-03-2022"
+            }, 
+            {
+                "id": "5032",
+                "name": "Vijay",
+                "email": "vijay@gmail.com",
+                "book":"Tamil",
+                "isbn":48236,
+                "borrowed_date":"05-04-2022",
+                "returned_date":"20-04-2022"
+            }
+        ]
+    
+    
+    }
+    ]
